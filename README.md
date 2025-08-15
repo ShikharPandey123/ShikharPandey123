@@ -42,7 +42,7 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="Visual Studio Code logo" />
+<!--   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="Visual Studio Code logo" /> -->
   <img width="15" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo"  />
   <img width="15" />
