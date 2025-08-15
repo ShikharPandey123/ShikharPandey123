@@ -11,6 +11,9 @@
   <img src="https://streak-stats.demolab.com?user=ShikharPandey123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShikharPandey123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
+
+# 💻 Tech Stack:
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="50" alt="nextjs logo"  />
   <img width="15" />
