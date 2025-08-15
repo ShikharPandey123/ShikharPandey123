@@ -11,47 +11,49 @@
   <img src="https://streak-stats.demolab.com?user=ShikharPandey123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShikharPandey123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
-
 # 💻 Tech Stack:
 <div align="left">
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="50" alt="nextjs logo"  />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-  height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="Tailwind CSS logo" 
-  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="Tailwind CSS logo" />
   <img width="15" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" height="50" alt="cpp logo"  />
   <img width="15" />
-  <!--<img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
-  <img width="15" />-->
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="50" alt="react query logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="50" alt="redux logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="50" alt="prisma logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/vscode/007ACC" height="50" alt="vscode logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo"  />
   <img width="15" />
-  <!--<img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
-  <img width="15" />-->
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
-  <img width="15" />
-  <!--<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="50" alt="socketio logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-</div>-->
+</div>
+
 
 
 # 🌐Socials:
