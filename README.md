@@ -73,11 +73,6 @@
 </div>
 
 
-# Github Activity Graph:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShikharPandey123&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShikharPandey123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
