@@ -2,7 +2,7 @@
 - 👋 Hi, My name is Shikhar.
 - 🌱 I’m a Fullstack developer
 - 📫 How to reach me shikhar2003.pandey@gmail.com
-- 📫 My Portfolio : [Click Here!!](https://portfolio-shikhar-pandeys-projects-6d0d29b3.vercel.app/)
+- 📫 My Portfolio : [Click Here!!](https://www.shikhar.site)
 
 
 # 📊 GitHub Stats:
