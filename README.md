@@ -1,5 +1,35 @@
-# 💫 About Me:
-I'm a full-stack developer focused on building fast, scalable, and reliable web applications. I work primarily with Next.js, TypeScript, Node.js, and modern backend systems, and I enjoy creating clean UIs backed by well-structured APIs. I’ve improved performance across multiple projects by optimizing API response times, refining database queries, and implementing secure authentication workflows. Lately, I’ve been working with real-time features, cloud deployments, and DevOps pipelines to deliver production-grade applications with high uptime. I’m always exploring better ways to design systems, automate workflows, and build tools that genuinely help developers and end users.
+# 💫 Hi 👋, I'm Shikhar  
+**A Full-Stack Developer | Next.js Specialist | Backend Engineer (Node.js)**
+
+📧 **Email:** shikhar2003.pandey@gmail.com  
+🌐 **Portfolio:** https://www.shikhar.site  
+
+- 🔭 **I’m currently working on:**  
+  Building high-performance full-stack applications using Next.js, TypeScript, and modern backend architectures.
+
+- 🌱 **I’m currently learning:**  
+  Scalable system design, DevOps workflows, CI/CD pipelines, and cloud-native deployments.
+
+- 👯 **I’m looking to collaborate on:**  
+  SaaS platforms, developer tools, dashboards, and anything that needs a clean UI backed by a solid backend.
+
+- 🤔 **I’m looking for help with:**  
+  Improving large-scale API performance, microservice patterns, and advanced cloud infrastructure.
+
+- 💬 **Ask me about:**  
+  Full-stack development, authentication systems, API design, databases, and performance optimization.
+
+- 📫 **How to reach me:**  
+  **shikhar2003.pandey@gmail.com**
+
+- 😄 **Pronouns:**  
+  He/Him
+
+- ⚡ **Fun fact:**  
+  I debug faster than I write code — because simplicity beats complexity every time.
+
+## 🔗 I love building fast, scalable, real-world applications and constantly pushing myself to learn better ways to design systems.
+
 
 
 ## 🌐 Socials:
