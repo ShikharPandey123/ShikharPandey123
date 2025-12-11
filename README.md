@@ -1,87 +1,100 @@
-# 💫 About Me:
-- 👋 Hi, My name is Shikhar.
-- 🌱 I’m a Fullstack developer
-- 📫 How to reach me shikhar2003.pandey@gmail.com
-- 📫 My Portfolio : [Click Here!!](https://www.shikhar.site)
-
-
-# 📊 GitHub Stats:
+<!-- HEADER -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShikharPandey123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ShikharPandey123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShikharPandey123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=9C6BFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shikhar+Pandey+👋;Fullstack+Developer+%7C+Next.js+%7C+Node.js;Crafting+Interfaces+That+Feel+Alive✨;Building+Fast%2C+Modern%2C+Scalable+Apps+🚀" alt="Typing intro" />
 </div>
 
-# 💻 Tech Stack:
+<br/>
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="50" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="Tailwind CSS logo" />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" height="50" alt="cpp logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="50" alt="react query logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="50" alt="redux logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="50" alt="prisma logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
-  <img width="15" />
-<!--   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="Visual Studio Code logo" /> -->
-  <img width="15" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
+<!-- ABOUT CARD -->
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ShikharPandey123&data=followers,repositories,stars,commits&theme=purple" />
 </div>
-
-
-
-# 🌐Socials:
-<div align="left">
-  <!--<a href="https://www.instagram.com/vyas._.pranjal?igsh=MTh2Ym1uNTVlMDB1NQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>-->
-  <a href="https://www.linkedin.com/in/shikhar-pandey-270545230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://leetcode.com/devilshikhar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LeetCode logo" />
-</a>
-
-</div>
-
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShikharPandey123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
+## 🌌 **About Me**
+I'm a full-stack developer who likes building smooth UI, performant backends, and things that make people go *“Damn, who built this?”*  
+I work mostly with **Next.js**, **TypeScript**, **React**, **Node.js**, and **modern tooling** that keeps things fast.
 
+🔗 **Portfolio:** https://www.shikhar.site  
+📬 **Email:** shikhar2003.pandey@gmail.com  
 
+---
+
+## 🎨 **Tech Universe**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,html,css,tailwind,prisma,postgres,mongodb,mysql,redux,cpp,git,github,vercel,postman&perline=10" />
+</div>
+
+---
+
+## ⚡ **GitHub Power Stats**
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShikharPandey123&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ShikharPandey123&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ShikharPandey123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShikharPandey123&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShikharPandey123&theme=react-dark&area=true&hide_border=true&radius=12" height="300"/>
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+> *These are your best shots — the ones that should sell you in 10 seconds.*
+
+### 🔥 **Commitly — AI-Powered GitHub Summaries + Collaboration**
+- Full-stack SaaS with GitHub OAuth  
+- AI-generated commit summaries  
+- Team workspace + meeting notes  
+- Crisp UI + responsive design  
+
+🔗 Live: https://commitly-ashen.vercel.app/  
+📦 Repo: *(Add link)*
+
+---
+
+### ⚡ **Portfolio v3 — Your Personal Brand Engine**
+- Built with **Next.js App Router**, **Framer Motion**, **Tailwind**  
+- Insanely smooth transitions  
+- Fully SEO-optimized  
+
+🔗 Live: https://www.shikhar.site  
+📦 Repo: *(Add link)*
+
+---
+
+## 🏆 **Achievements**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShikharPandey123&theme=dracula&no-frame=true&margin-w=10" />
+</div>
+
+---
+
+## 🌍 **Social Links**
+<div align="center">
+  <a href="https://www.linkedin.com/in/shikhar-pandey-270545230">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/devilshikhar/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:shikhar2003.pandey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## ⚡ Fun Fact
+> Developers don’t create bugs.  
+> They *uncover undocumented features.* 😄
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <h3>⭐ If you like my work, consider giving my repos a star!</h3>
 </div>
