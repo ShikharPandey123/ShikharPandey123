@@ -19,19 +19,6 @@
 - 💬 **Ask me about:**  
   Full-stack development, authentication systems, API design, databases, and performance optimization.
 
-- 📫 **How to reach me:**  
-  **shikhar2003.pandey@gmail.com**
-
-- 😄 **Pronouns:**  
-  He/Him
-
-- ⚡ **Fun fact:**  
-  I debug faster than I write code — because simplicity beats complexity every time.
-
-## 🔗 I love building fast, scalable, real-world applications and constantly pushing myself to learn better ways to design systems.
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shikhar-pandey-270545230) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shikhar2003.pandey@gmail.com) 
 
